@@ -1,3 +1,5 @@
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/5af64004-ea08-48ac-aa33-4778639e3eda" />
+
 # Prediksi Gagal Bayar (Credit Default Prediction) - Home Credit Indonesia
 
 **Final Task - Rakamin x Home Credit Virtual Internship**
@@ -6,7 +8,7 @@
 
 Banyak orang kesulitan mendapatkan pinjaman karena riwayat kredit yang tidak mencukupi atau tidak ada sama sekali. Populasi ini seringkali rentan dan dapat dimanfaatkan oleh pemberi pinjaman yang tidak dapat dipercaya.
 
-Home Credit berusaha untuk memperluas inklusi keuangan bagi populasi *unbanked* dengan menyediakan pengalaman pinjaman yang positif dan aman. Untuk memastikan populasi yang kurang terlayani ini memiliki pengalaman pinjaman yang positif, Home Credit memanfaatkan berbagai data alternatif—termasuk data telco dan transaksional—untuk memprediksi kemampuan klien dalam membayar kembali pinjaman.
+Home Credit berusaha untuk memperluas inklusi keuangan bagi populasi *unbanked* dengan menyediakan pengalaman pinjaman yang positif dan aman. Untuk memastikan populasi yang kurang terlayani ini memiliki pengalaman pinjaman yang positif, Home Credit memanfaatkan berbagai data alternatif termasuk data telco dan transaksional untuk memprediksi kemampuan klien dalam membayar kembali pinjaman.
 
 ## Tantangan Bisnis
 
