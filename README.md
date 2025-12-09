@@ -40,8 +40,6 @@ Tahap ini berfokus pada pemahaman data dan penciptaan fitur-fitur baru yang rele
 
   * **Rekayasa Fitur (Feature Engineering):**
 
-      * Menggabungkan data dari berbagai sumber (misalnya `bureau.csv`, `previous_application.csv`, dll.) ke dalam dataset aplikasi utama.
-
       * Menciptakan fitur-fitur baru berdasarkan domain knowledge, seperti:
 
           * Rasio pendapatan terhadap kredit (`CREDIT_INCOME_PERCENT`)
@@ -127,7 +125,6 @@ Langkah ini akan membantu Home Credit mencapai tujuannya untuk mengurangi risiko
 ├── EDA_featureEngineer.ipynb   # Notebook untuk Analisis Data dan Rekayasa Fitur
 ├── preprocessing.ipynb         # Notebook untuk Pra-pemrosesan dan Seleksi Fitur
 ├── models.ipynb                # Notebook untuk Pelatihan, Tuning, dan Evaluasi Model
-├── predict_application.csv     # Hasil prediksi final untuk data tes
 └── README.md                   # Dokumentasi proyek (file ini)
 
 ```
