@@ -24,7 +24,7 @@ Hasil dari model ini akan digunakan untuk menciptakan *scorecard* yang dapat mem
 
 Proyek ini dibagi menjadi tiga tahap utama, yang tercermin dalam notebook yang disediakan:
 
-### 1\. Analisis Data Eksploratif (EDA) & Rekayasa Fitur (`EDA_featureEngineer.ipynb`)
+### 1\. Exploratory Data Analysis (EDA) & Feature Engineering (`EDA_featureEngineer.ipynb`)
 
 Tahap ini berfokus pada pemahaman data dan penciptaan fitur-fitur baru yang relevan.
 
